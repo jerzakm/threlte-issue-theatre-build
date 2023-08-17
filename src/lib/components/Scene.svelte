@@ -23,9 +23,9 @@
 	position.y={-0.001}
 	cellColor="grey"
 	sectionThickness={0}
-	fadeDistance={2500}
+	fadeDistance={500}
 	cellSize={3}
-	infiniteGrid
+	gridSize={500}
 />
 
 <ContactShadows scale={10} blur={2} far={2.5} opacity={0.5} />
